@@ -1,0 +1,58 @@
+body {
+    font-size: .78rem;
+    background-color: rgb(48, 45, 45);
+    
+
+}
+
+main {
+    /* height: 100vh; */
+    min-height: 100vh;
+    background-color: #161414;
+}
+
+main.container {
+
+  border-color: #161414;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(14, 7, 1);
+    text-decoration-style: double;
+}
+
+
+.relogio-rodape {
+    border: 1px inset darkgray;
+}
+
+div.card1 {
+    text-align: center;
+    margin-top: 0%;
+    margin: -10px;
+    border: 2px solid white;
+    background-color: #fff;
+    
+}
+
+div.card2 {
+    text-align: center;
+    margin-top: 0%;
+    margin-left: -35%;
+    border: 2px solid white;
+    background-color: #fff;
+    float: left;
+}
+
+div.textlogo{
+
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+}
+

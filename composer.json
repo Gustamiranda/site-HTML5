@@ -1,0 +1,20 @@
+{
+    "name": "Gustavo/site",
+    "autoload": {
+        "psr-4": {
+            "Gustavo\\site\\": "src/"
+        }
+    },
+
+    "scripts" : {
+         "start": "php -S 0.0.0.0:9000 -t src/public"
+    },
+
+    "authors": [
+        {
+            "name": "Gustavo Vieira Miranda",
+            "email": "gustavo.miranda@es.estudante.senai.br"
+        }
+    ],
+    "require": {}
+}
