@@ -1,7 +1,7 @@
 body {
     font-size: .78rem;
     background-color: rgb(48, 45, 45);
-    
+
 
 }
 
@@ -14,7 +14,7 @@ main {
 
 main.container {
 
-  border-color: #161414;
+    border-color: #161414;
 }
 
 
@@ -36,7 +36,7 @@ div.card1 {
     border: 2px solid rgb(43, 41, 41);
     background-color: #fff;
     border-radius: 20px;
-    text-size-adjust: auto;  
+    text-size-adjust: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -44,14 +44,15 @@ div.card2 {
     text-align: center;
     margin-top: 0%;
     margin-left: -39%;
-    border:  2px solid rgb(43, 41, 41);
+    border: 2px solid rgb(43, 41, 41);
     background-color: #fff;
     float: left;
     border-radius: 20px;
-    text-size-adjust: auto;  
+    text-size-adjust: auto;
     font-family: Arial, Helvetica, sans-serif;
-    
+
 }
+
 div.card3 {
     text-align: center;
     margin-top: 0%;
@@ -59,12 +60,14 @@ div.card3 {
     border: 2px solid rgb(43, 41, 41);
     background-color: #fff;
     border-radius: 20px;
-    text-size-adjust: auto;    
+    text-size-adjust: auto;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
-div.textlogo{
+
+
+div.textlogo {
 
     color: #fff;
     font-size: 15px;
@@ -74,4 +77,3 @@ div.textlogo{
     text-align: center;
 
 }
-
